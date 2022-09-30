@@ -1,6 +1,3 @@
-from tkinter import dnd
-
-
 def normalMult(x, y, depth):
     lenY = len(y) 
     if depth == lenY:
